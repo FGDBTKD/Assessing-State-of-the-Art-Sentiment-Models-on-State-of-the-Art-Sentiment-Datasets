@@ -30,7 +30,6 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
  - The SenTube datasets are texts that are taken from YouTube comments regarding automobiles (SenTube-A) and tablets (SenTube-T).
  - The SemEval 2013 Twitter dataset (SemEval) is a dataset that contains tweets collected for the 2013 SemEval shared task B.
 
-<br>
 ![2](https://leanote.com/api/file/getImage?fileId=5b10caadab644114cd000b26)
 
 ----------
@@ -63,7 +62,6 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
 ![3](https://leanote.com/api/file/getImage?fileId=5b10d09cab644114cd000eec)
 ![4](https://leanote.com/api/file/getImage?fileId=5b10d0e5ab644116b7000ec0)
 ![5](https://leanote.com/api/file/getImage?fileId=5b10d0faab644116b7000ecf)
-<br>
 ![6](https://leanote.com/api/file/getImage?fileId=5b10d129ab644116b7000ee5)
 
 ----------

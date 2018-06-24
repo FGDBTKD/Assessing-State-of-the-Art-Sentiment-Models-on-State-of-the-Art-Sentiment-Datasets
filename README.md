@@ -72,7 +72,6 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
 ![12](https://leanote.com/api/file/getImage?fileId=5b10d1ceab644116b7000ef0)
 ![10](https://leanote.com/api/file/getImage?fileId=5b10d192ab644116b7000eea)
 ![9](https://leanote.com/api/file/getImage?fileId=5b10d17aab644114cd000f23)
-
 ![11](https://leanote.com/api/file/getImage?fileId=5b10d1b6ab644116b7000eec)
 
 ----------

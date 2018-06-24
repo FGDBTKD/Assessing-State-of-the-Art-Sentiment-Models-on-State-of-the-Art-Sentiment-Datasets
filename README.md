@@ -76,7 +76,6 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
 
 ----------
 
-> [相关代码](https://github.com/jbarnesspain/sota_sentiment)
 
 
 
